@@ -1,0 +1,5 @@
+{
+  "name": "prompt-improve-mod",
+  "owner": { "name": "Chapisco" },
+  "plugins": [{ "name": "melhorar-prompt", "source": "./" }]
+}

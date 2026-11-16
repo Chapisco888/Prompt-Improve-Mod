@@ -1,0 +1,8 @@
+{
+  "name": "melhorar-prompt",
+  "version": "0.1.0",
+  "description": "Botão que reescreve o rascunho do prompt para ficar claro e concreto, sem inventar nada",
+  "author": { "name": "Chapisco" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
